@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# The path that will be seached
+# The path that will be searched
 declare -r filepath="/home/dozerman/testdir"
-# Filetypes we expect to be extracted from rar
+# Filetypes we expect to be extracted from rar archives
 declare -a extractedtypes=("mkv" "mp4" "avi")
 #
 
